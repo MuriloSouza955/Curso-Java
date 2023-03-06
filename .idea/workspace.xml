@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f6bf6d2-8b78-4104-af1a-783d93390fe0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/AreaCirc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/AreaCircTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/DataTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/PrimeiroTrauma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/ValorNulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/ValorVsReferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/desafio/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/desafio/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/desafio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/BreakRotulado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/ContinueRotulado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DesafioDiaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DesafioFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DesafioIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DesafioWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/For3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/SwitchComBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/SwitchSemBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/WhileDeterminado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controle/WhileIndeterminado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/AreaCircunferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoNumeroString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoStringNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoTipoPrimitivoNumerico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/DesafioCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/DesafioConversao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Import.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Inferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/NotacaoPonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/PrimeiroPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/PrimitivoVsObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Temperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/TipoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/TipoStringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Wrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Aritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Atribuicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/DesafioAritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/DesafioLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Logicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Relacionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Ternario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Unarios.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2McbW2hZulh35CpHwX9eSSBuO8M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\COD3RIJ\Curso-Java\src\classe\desafio" />
+      <recent name="D:\COD3RIJ\Curso-Java\src\classe" />
+      <recent name="D:\COD3RIJ\Curso-Java\src\controle" />
+      <recent name="D:\COD3RIJ\Curso-Java\src\fundamentos\operadores" />
+      <recent name="D:\COD3RIJ\Curso-Java\src\fundamentos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f6bf6d2-8b78-4104-af1a-783d93390fe0" name="Changes" comment="" />
+      <created>1678069849770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678069849770</updated>
+      <workItem from="1678069850070" duration="726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
